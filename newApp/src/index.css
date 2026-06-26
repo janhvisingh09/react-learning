@@ -1,0 +1,19 @@
+.Card{
+border: 1px solid black;
+border-radius: 5px;
+box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+padding: 10px;
+margin: 10px;
+max-width: 300px;
+background-color: #f9f9f9;
+text-align: center;
+font-family: Arial, sans-serif;
+animation: fadeIn 1s ease-in-out;
+transition: transform 0.3s ease-in-out;
+
+};
+
+.btn btn-primary{
+background-color: #007bff;
+color: white;
+border: none;   };

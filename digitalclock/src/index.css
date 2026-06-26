@@ -1,0 +1,21 @@
+body {
+  background-image: url(./assets/bg-img.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+.clock-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock {
+  color: white;
+  font-size: 2em;
+  font-weight: bold;
+}
